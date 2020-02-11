@@ -3,7 +3,7 @@ In Domoticz, go in domoticz->setup->hardware
 * select the correct type of zigate and its connection details.
 <br />
 
-go in http://[domoticz_server_hostname]:[defalut)port _is_9440]/settings
+* go in http://[domoticz_server_hostname]:[defalut)port _is_9440]/settings
 * select "settings" in the top bar
 * put the toggle "Advanced settings" to ON
 * find the menu zigate settings and you should find "zigate channel" and "extendedPANID" under it
@@ -12,7 +12,7 @@ go in http://[domoticz_server_hostname]:[defalut)port _is_9440]/settings
 eg : randomly select 2141, your extendedPANID will be 2141484504015e10
 <br />
 
-go back to domoticz->setup->hardware
+* go back to domoticz->setup->hardware
 * Select your "zigate plugin" hardware
 * switch "Erase Persistent Data ( !!! full devices setup need !!! )" to TRUE
 * click update
