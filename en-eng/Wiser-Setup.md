@@ -22,4 +22,5 @@ Domoticz
 * switch "Erase Persistent Data ( !!! full devices setup need !!! )" to TRUE
 * click update
 
+<br />
 * switch "Erase Persistent Data ( !!! full devices setup need !!! )" to FALSE
